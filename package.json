@@ -1,0 +1,22 @@
+{
+  "name": "vakit",
+  "version": "0.0.1",
+  "description": "Vakit, zaman fonksiyonlarını içeren bir kütüphanedir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrekayik/vakit.git"
+  },
+  "keywords": [
+    "time"
+  ],
+  "author": "emrekayik <emrekayik1905@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrekayik/vakit/issues"
+  },
+  "homepage": "https://github.com/emrekayik/vakit#readme"
+}
