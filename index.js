@@ -1,3 +1,9 @@
-var time = new Date();
+const tarih = new Date();
+const vakit = tarih;
 
-module.exports = time;
+
+console.log(new Intl.DateTimeFormat("tr-TR").format(vakit));
+console.log(vakit);
+
+module.exports = {vakit};
+
