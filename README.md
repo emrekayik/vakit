@@ -1,4 +1,4 @@
-# Vakit-v0.0.1
+# Vakit-v0.0.2
 
 ## Henüz yeni başlandı, vakitle vakit'e yeni fonksiyonlar eklenecektir.
 
