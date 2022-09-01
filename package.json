@@ -1,6 +1,6 @@
 {
   "name": "vakit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vakit, zaman fonksiyonlarını içeren bir kütüphanedir.",
   "main": "index.js",
   "scripts": {

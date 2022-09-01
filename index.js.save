@@ -1,0 +1,3 @@
+var bugun = new Date()
+
+♠module.exports = time
